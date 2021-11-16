@@ -2,8 +2,7 @@ import turtle
 from turtle import Turtle, Screen
 import random
 
-x_axis = 0
-y_axis = 0
+
 tim = Turtle()
 turtle.colormode(255)
 
